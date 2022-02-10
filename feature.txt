@@ -1,3 +1,4 @@
 test feature
 commit 2
 com3
+conflict 1
