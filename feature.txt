@@ -1,4 +1,4 @@
 test feature
 commit 2
 com3
-conflict 2
+conflict 1
